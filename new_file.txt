@@ -1,8 +1,7 @@
 read me
 udpate on local 1
-<<<<<<< HEAD
-udpate on local 2
-=======
+
 update on web 1
 update on web 2
->>>>>>> 405df3104bacfa7836d399e11ea980dd303b1f45
+
+udpate on local 2
